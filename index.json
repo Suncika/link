@@ -1,0 +1,30 @@
+{
+    "data": [{
+        "title": "Bleach",
+        "desc": "<p>Bleach bercerita tentang Ichigo Kurosaki, seorang pelajar SMA yang memiliki kemampuan untuk melihat roh, dan juga Rukia Kuchiki, seorang shinigami (dewa kematian) yang pada suatu hari bertemu dengan Ichigo sewaktu sedang memburu roh jahat yang disebut hollow. Pada saat Rukia bertarung melawan hollow tersebut, ia terluka dan oleh sebab itu ia tidak memiliki jalan lain selain memindahkan kekuatan shinigami-nya kepada Ichigo. Sejak saat inilah petualangan Ichigo dan Rukia dimulai.</p>",
+        "image": "https://lh3.googleusercontent.com/S8XvhKSH5jPCMoE687YlK9iHanyl2ajA8uOyv0O61h85v2Vy64-6YXWkpNAlCrbDnPFHTua33390RA=w1366-h768-no",
+        "type": "TV",
+        "episodes": 366,
+        "status": "Finished Airing",
+        "producers": [
+            "TV Tokyo",
+            "Aniplex",
+            "Dentsu",
+            "TV Tokyo Music",
+            "Studio Kelmadick"
+        ],
+        "studios": [
+            "Studio Pierrot"
+        ],
+        "genres": [
+            "Action",
+            "Comedy",
+            "Shounen",
+            "Super Power",
+            "Supernatural"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7,
+        "download": "anime/bleach"
+    }]
+}
