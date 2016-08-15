@@ -25,6 +25,55 @@
         ],
         "rating": "PG-13 - Teens 13 or older",
         "score": 7,
-        "download": "anime/bleach"
-    }]
+        "download": "bleach"
+    }, {
+        "title": "Digimon Adventure",
+        "desc": "<p>Digimon Adventure menceritakan tentang tujuh anak-anak pra-remaja dengan personaliti masing-masing, masuk ke dunia yang dibentuk dari jaringan teknologi informasi dan komunikasi manusia yang disebut "dunia digital", dengan meninggalkan di belakang realita hidup dunia nyata. Mereka berpasangan dengan "digimon" yang secara ironis memiliki personaliti komplementer dengan masing-masing anak. Digimon adalah makhluk digital penghuni digital world. Diketahui kemudian bahwa anak-anak tersebut adalah anak-anak terpilih yang dipilih untuk membebaskan dunia digital dari krisis. Petualangan di dunia digital memaksa anak-anak untuk menguak kembali segala permasalahan pribadi masing-masing mereka di dunia nyata yang terus mengganjal dan menghalangi jalan mereka menuju kedewasaan, yang merupakan kunci untuk menyelamatkan dunia digital dan dunia nyata.</p>",
+        "image": "https://lh3.googleusercontent.com/qhzafWbtKsUTwkTgJgGgZDwWphGQrkztCVCqT_SKcqirTfRXWJ4TEWyH-PlCVWeMpxBJt_QnkvI_yk7Zq_456IogxrOUFPRHN8shgqmGOwII2CiPXs6vS0i4U-vE0pa2UCoRJc25Qf-0d-OdLEvSD6B4KeyBi-V_QxV7ZSt-JmlBfgx4ncweP8IhT48HjjnSfWrYDMpbZLujMEu02VqsUgg2c4H1ctvHO3rJ8qG1_49FoSeg-MeV30l4nrrIZxvyzsjV-CcSWJgrWeDVKXn_m3PK81FcHPHAC7rjohPqETAHxK0qWApfqAmo2eu7hb-NHvEZH82qy0nf-6H9sVxEqwYpo93DBLKXMtww6fQTmL6VFzzpT0Y-PqvBxQgKVUP8D9I-6LZDgnxCvDW-p9w_62YkImgEyTfpObM7ffhALWxTbpbEXpZGU_frT9jblfSn_BlmowuGL_KGhJmjEBhfNkBRdcuJBgYwfFxs4GgN1hWrQSoF4KYfQBrvC59ITI8SK4OZCGNk_fcdYmBL9lefg8sL0JZMBwqvVwjxVERMwPTavaZpSboKT353vKJLAs53GgV0a1V1x3-mQEiCSVhyp7mypHJCf0A=w292-h450-no",
+        "type": "TV",
+        "episodes": 54,
+        "status": "Finished Airing",
+        "producers": [
+            "Yomiko Advertising",
+            "Fuji TV"
+        ],
+        "studios": [
+            "Toei Animation"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Kids"
+        ],
+        "rating": "PG - Children",
+        "score": 7,
+        "download": "digimon-adventure"
+    }, {
+        "title": "Initial D Second Stage",
+        "desc": "<p>Ada tantangan baru di Akina dari Team Emperor. Nakazato kalah dari Seiji dan Stiker NightKids di potong oleh Emperor. Selanjutnya Emperor ke Akina untuk mengalahkan Takumi tetapi Takumi menang pada saaat-saat terakhir.Saat Seiji kalah ia langsung ditampar oleh Kyouichi. Tetapi target Kyoichi adalah Ryousuke di Akagi. Takumi mau mengunjungi Natsuki. Tetapi Takumi mengetahui rahasianya. Takumi pergi ke Akagi dengan rasa marah dan kesal.Ia nekat melawan Kyoichi. Tetapi mesin mobil Takumi meledak. Selanjutya Bunta mengganti mesin tua dengan mesin baru yaitu 4A-GE 20 Valve TRD 'Silver Top' (Berbeda dari sebelumnya, 4A-GE yang baru adalah versi khusus yang di buat Toyota untuk Japan Touring Championship. Mesin ini dapat mencapai 11.000rpm). Tetapi Kyouichi ingin melawan Ryosuke. Tetapi hasilnya Ryosuke menang. Takumi mendapat lawan baru yaitu Wataru Akiyama. Tetapi Takumi menang dalam ronde ke 4 melalui lumpur yang sudah agak menghilang ketika ronde-ronde sebelumnya.</p>",
+        "image": "https://lh3.googleusercontent.com/TGYDJDT1xOrwdrzCK1SD42s6vUVmCX0UQISgVPX7si-nZuaWFDnekICdG8ayTKz16anr9Q7TzZ0XDmJoX4oQiMDK-FhSrh8OkhMvNp6MHmd-p10hLpwP_i68nTf9JpMnXmFiuq8h4Smh1As9WaylzIqh-ivkgxBfbqiKWfyyHBZ9SwsR9XSCJfMQ6O8_2Fszh2EvhisiYW7UxjclgMOWWtqfaKQitYYTkt_GH4_jMFzKzTfm6MG0RZmTWhoaLEvGMF3HzNRo8W40Hzg83yGJLdMDTURXYzM9EVogKvvMJnhqFJl2mMU2Z5L8NyD1d-QsVc2AF5Dq6jeZJglGER9OPrO31rjX_zxVDeM-FFSKPdrJdd-TsZel3XbBrl-BjulVr3kugM8oRVkBVlIzGJih5EOWhYfELkgTb0WRGPbOUE0ZkPZ56f5SAYlX-PizYylu7rVXub69_4_tw_VSkHGiCwrO79jK_j4p4dOpMf01weHT3bc6M1tOfFZaYLROq4-wbmD-sYdaSYXrdDpkXjI2lGw0UY9yBjCZatG3WrIk-suN3Se3TIa4fmG-h6qZm1NTQQLt_F3szBppNQsXmZFp_VIJqRD3R2I=w225-h327-no",
+        "type": "TV",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "producers": [
+            "OB Planning",
+            "Fuji TV"
+        ],
+        "studios": [
+            "Pastel"
+        ],
+        "genres": [
+            "Action",
+            "Cars",
+            "Drama",
+            "Seinen",
+            "Sports"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8,
+        "download": "initial-d-second-stage"
+    }
+]
 }
