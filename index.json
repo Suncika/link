@@ -28,7 +28,7 @@
         "download": "bleach"
     }, {
         "title": "Digimon Adventure",
-        "desc": "<p>Digimon Adventure menceritakan tentang tujuh anak-anak pra-remaja dengan personaliti masing-masing, masuk ke dunia yang dibentuk dari jaringan teknologi informasi dan komunikasi manusia yang disebut "dunia digital", dengan meninggalkan di belakang realita hidup dunia nyata. Mereka berpasangan dengan "digimon" yang secara ironis memiliki personaliti komplementer dengan masing-masing anak. Digimon adalah makhluk digital penghuni digital world. Diketahui kemudian bahwa anak-anak tersebut adalah anak-anak terpilih yang dipilih untuk membebaskan dunia digital dari krisis. Petualangan di dunia digital memaksa anak-anak untuk menguak kembali segala permasalahan pribadi masing-masing mereka di dunia nyata yang terus mengganjal dan menghalangi jalan mereka menuju kedewasaan, yang merupakan kunci untuk menyelamatkan dunia digital dan dunia nyata.</p>",
+        "desc": "<p>Digimon Adventure menceritakan tentang tujuh anak-anak pra-remaja dengan personaliti masing-masing, masuk ke dunia yang dibentuk dari jaringan teknologi informasi dan komunikasi manusia yang disebut 'dunia digital ', dengan meninggalkan di belakang realita hidup dunia nyata. Mereka berpasangan dengan 'digimon' yang secara ironis memiliki personaliti komplementer dengan masing-masing anak. Digimon adalah makhluk digital penghuni digital world. Diketahui kemudian bahwa anak-anak tersebut adalah anak-anak terpilih yang dipilih untuk membebaskan dunia digital dari krisis. Petualangan di dunia digital memaksa anak-anak untuk menguak kembali segala permasalahan pribadi masing-masing mereka di dunia nyata yang terus mengganjal dan menghalangi jalan mereka menuju kedewasaan, yang merupakan kunci untuk menyelamatkan dunia digital dan dunia nyata.</p>",
         "image": "https://lh3.googleusercontent.com/qhzafWbtKsUTwkTgJgGgZDwWphGQrkztCVCqT_SKcqirTfRXWJ4TEWyH-PlCVWeMpxBJt_QnkvI_yk7Zq_456IogxrOUFPRHN8shgqmGOwII2CiPXs6vS0i4U-vE0pa2UCoRJc25Qf-0d-OdLEvSD6B4KeyBi-V_QxV7ZSt-JmlBfgx4ncweP8IhT48HjjnSfWrYDMpbZLujMEu02VqsUgg2c4H1ctvHO3rJ8qG1_49FoSeg-MeV30l4nrrIZxvyzsjV-CcSWJgrWeDVKXn_m3PK81FcHPHAC7rjohPqETAHxK0qWApfqAmo2eu7hb-NHvEZH82qy0nf-6H9sVxEqwYpo93DBLKXMtww6fQTmL6VFzzpT0Y-PqvBxQgKVUP8D9I-6LZDgnxCvDW-p9w_62YkImgEyTfpObM7ffhALWxTbpbEXpZGU_frT9jblfSn_BlmowuGL_KGhJmjEBhfNkBRdcuJBgYwfFxs4GgN1hWrQSoF4KYfQBrvC59ITI8SK4OZCGNk_fcdYmBL9lefg8sL0JZMBwqvVwjxVERMwPTavaZpSboKT353vKJLAs53GgV0a1V1x3-mQEiCSVhyp7mypHJCf0A=w292-h450-no",
         "type": "TV",
         "episodes": 54,
@@ -74,6 +74,5 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 8,
         "download": "initial-d-second-stage"
-    }
-]
+    }]
 }
