@@ -218,5 +218,30 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 7,
         "download": "akb0048"
+    }, {
+        "title": "Eyeshield 21",
+        "desc": "<p>Eyeshield 21 adalah sebuah serial manga Jepang yang ditulis oleh Riichiro Inagaki dan diilustrasikan oleh Yusuke Murata. Cerita ini mengisahkan Sena Kobayakawa, seorang pemuda introvert yang bergabung dengan sebuah klub American football sebagai seorang manajer, tetapi karena dipaksa oleh Yoichi Hiruma, ia akhirnya bermain dengan menggunakan pelindung mata dan nomor 21, sebagai \"Eyeshield 21\".</p>",
+        "image": "https://lh3.googleusercontent.com/UHvkKIES__jEd8Syger_HemylqL-odlUSxpVpdt67xPNDN_bc343NrIZMwAhdFWCRXmZqwOg6m50Nuam7ekFdjc14Bov5oF-pepDgmoPlgZ66sTVLkWTyV_fdu8an8nSo_x3QvWSvDH3JN4WxvWXjQHR8o7ACkMUud8vupz7xe9dQWVbjhHt3URf06a1m6_OGO2FdhJ8i9-AxKaR9Ep4CTLuhqwHqGl7qFsdqlz7JqkuUoAy744Nlfy-GeGkKp_XVSLTTn47T9Xm2jCZRSJczQIdtoyznoDrBfZ4qSHcDYYoSiTMXEVILorV6f3KKkjab2lUwoaH_6YvmR6GlS5x7oyms14q_MRiLXo_pbDVTQvhQjemWMVMCtgspcwgaKQCIHT92BK9XyWQx75d6bpBdFx1KavnvD6hgTgr9lKdAI_LoB5FDFsFIrbQ6A-dWUdtGS410yew8CyluLmxncQzF9yX6aSykPgnSbKGWq1YBAcVMHUHCwYovjwnL1uWwT2piF0ivlud2iBfd2-JDmgusi-TjU_7IS9bHfQJwIjGr3Z9bCThs9pS0AXH1okLNL2_csqcHmAHS2tOXOEfeM6Y_asbiniRy_BN49dyPKqwtXjy8yjI=w225-h338-no",
+        "type": "TV",
+        "episodes": 145,
+        "status": "Finished Airing",
+        "producers": [
+            "TV Tokyo",
+            "Nihon Ad Systems",
+            "TV Tokyo Music",
+            "Shueisha"
+        ],
+        "studios": [
+            "Studio Gallop"
+        ],
+        "genres": [
+            "Action",
+            "Comedy",
+            "Shounen",
+            "Sports"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8,
+        "download": "eyeshield-21"
     }]
 }
