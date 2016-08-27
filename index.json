@@ -196,7 +196,7 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 7,
         "download": "accel-world"
-    },{
+    }, {
         "title": "AKB0048",
         "desc": "<p>Pada awal abad ke-21 pecah perang dunia. Bumi mengalami kerusakan besar, dan manusia mengungsi ke luar angkasa. Manusia memulai sejarah baru yang ditandai dengan dimulainya kalender bintang tahun 00 dan dilarangnya semua kegiatan \"mengganggu perasaan\" seperti seni dan musik. Pada tahun 0048 kalender bintang dibentuk grup idola AKB0048 sebagai penerus grup legendaris AKB48. Namun penguasa memandang keberadaan AKB0048 sebagai pelanggaran hukum, Akibatnya, mereka tidak dapat melakukan konser resmi. AKB0048 mengubah strategi dari \"idola yang dapat kamu jumpai\" menjadi \"idola yang pergi menjumpai penggemar\".</p><p>Pengaruh AKB0048 begitu besar sehingga mereka diberi label sebagai grup teroris. Penguasa berusaha menekan mereka melalui berbagai cara. Namun AKB0048 memiliki senjata dan pertahanan diri. Mereka terus berjuang membela rakyat, penggemar, dan panggung konser mereka.</p>",
         "image": "https://lh3.googleusercontent.com/0VnzUV9V-MzOk7D-vUVw8tujAgAJQQNzUjQVtU6nImjp-98AaZWSK047Yhnu7IWlYArLeskH-_9SgGwClT5-DJplSBnjknEnSAhfNhZ0BFFVN1aK53_x44arTjuXDLk39GRQsjMMMtQDHmdBCILZxlx_HcbvKbW33vhW59gjSuH8WqrIQB5O_1UNCyHGp4fFeqoWwp_O0KriMmaVssXtjNBhBr7wwlFZ9Gqadq2x9GFdScDfaXG7P5c3AReBgxKPj0zYtuJq_0uhwAU4zW3zfukz2s6xuIVK2hsg1ygFXzvQyipVaKUm7REmRmdn42_FtcOgAk8VJRXTv7q45tCThZgdE5vtvaKVthd8_64Ls5Qm80pq476_Nu9VVsUT0fvLPayHO8IfgSpsGKd20iAYGmteq-ow5Wimx3bJ-UR2CVOJ_98Hized1feTwqZg4rgmi4eAe9gpG7RjyP4ZYVg1SiKarFdJuCQAwpudytUwKcZy8Rx1XVHTXJQOb3IfZOIMQ5OGRlyS0ZHa24By8FsuXCj3mr1Q5TbJMxDIHUdYum2cnJROBuFJ4c16Tp-FFrFl6mfjPyrrjvDsAcqQ4e5lGzuILVuui7oAp-zI9EO267Zsla4E=w225-h323-no",
@@ -268,5 +268,32 @@
         "rating": "PG - Children",
         "score": 7,
         "download": "digimon-adventure-02"
+    }, {
+        "title": "Fullmetal Alchemist: The Conqueror of Shamballa",
+        "desc": "<p>Edward, yang berada dalam dunia yang berbeda yaitu dunia modern (red: jaman mesin uap) sebagai pertukaran sepadan untuk menyelamatkan adiknya Alphonse.</p><p>Di dunia itu, Edward bertemu dengan orang yang sama di dunianya berasal seperti adiknya Alphonse, dan King Bradley. Kejadian tak terduga muncul saat direktur Eckart yang mensponsori Alphonese untuk membuat sebuah Rocket. Ternyata tujuan drektur Eckart adalah untuk menghancurkan dunia Edward berasal.</p>",
+        "image": "https://lh3.googleusercontent.com/2sY_7d_Ddz72EXIp1I620CG_ndAmqrfrU1JQ6L_kPv01baDmeXD8hAz64TYyP_aNbFjat_Dp0RLH6nNkvmcy4ZNs2Jay_ObYo4QoUAeeg1HIYZXP7Jj9ARhmsGIyQqIVs8ovEWxRb4k-y75S0f_uOBFE3PeqJQ063MwVQ0LAGp5L02dnqviBxmGpcrc_WH4MAg8gAw-JjuhrjYXxiiU3o9c_wiwFWuNoCM0NjazXEwODMZxoSZK7VRu_SaZGDAzA5ZHjS7-WSXe_jKtZjJhCg5X5yyXicE3Jk0BUoFuCngM8cJMeFahE3s-LOfnc778g6tTJg378oGyBz5W05wSeebV3LvvtZKpAp8cMfQTXfI_IZ8gd-fep8DzAPgohdCKZ25SHna8Ad7YcJSK_v-TsLu_kTjsB6bcaz8VDW9q-pjxkKQMxT-8XgjeYoI-kJVpJmmP6U5ONK1JTNUao19Rz3gEiU_m8pX-r28FJc9ZXaGLQRxshLh1ESHuJeLo1CnbqqMgZ4nlt2HZyNOegsQmKHqEN7ldXIOkjM6vYw9o7zNgCu89X_C2W8HxnIdi0e3YSj1D3qD3tVXbw4PzCs720_5bQwAke5xpoROI5IDzwKhIwo8bY=w225-h317-no",
+        "type": "Movie",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "producers": [
+            "Aniplex",
+            "Square Enix",
+            "Shochiku",
+            "Mainichi Broadcasting System"
+        ],
+        "studios": [
+            "Bones"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Historical",
+            "Military",
+            "Shounen"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7,
+        "download": "fullmetal-alchemist-the-conqueror-of-shamballa"
     }]
 }
