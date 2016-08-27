@@ -243,5 +243,30 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 8,
         "download": "eyeshield-21"
+    }, {
+        "title": "Digimon Adventure 02",
+        "desc": "<p>Serial yang kedua merupakan sekuel langsung dari Digimon pertama. Dimulai setelah tiga tahun berlalu sejak anak-anak terpilih menyelamatkan dunia digital dimana Taichi, Yamato, Sora, Koushiro, Mimi, dan Joe telah beranjak remaja, sedangkan Takeru dan Hikari sudah kelas V SD. Kekacauan kembali terjadi di dunia digital karena ulah seorang anak manusia yang menyebut dirinya Kaisar Digimon yang menganggap dunia digital hanyalah permainan dalam program komputer. Generasi kelompok anak-anak terpilih yang baru dibentuk, terdiri dari tiga anak terpilih baru yaitu Motomiya Daisuke yang berpartner dengan V-mon, Inoue Miyako yang berpartner dengan Hawkmon, dan Hida Iori yang berpartner dengan Armadimon, beserta Takeru dan Hikari yang berpartner dengan Patamon dan Tailmon dari generasi sebelumnya.</p>",
+        "image": "https://lh3.googleusercontent.com/XKBufVTPgU5nCz14u13swvW807wokK_mgGBWWqCi537tHDs-21I1lZwkhB7fprv_72Zf0jmccUpfl1IhFpXNJY7C8-AeAhtCh61-3DX-ykUciuzZlFfRN1aRpkK4xwMrpPA8la-n1dML6g1TSDegObDtgspcDkZMErp7xiY9eoZxpj8Un33RGrUvj6lCADiqnVlBo3cZHSbPFwWMpU2--BqSuXl2bezGTGllV4_ZeMcyDjydDyyB7XRMV3Vy37nStjimdyn8c3aMH3C-O0vJ3DJtb1AjRtJwc35m1FxfngQ-5Voy3z5BPC2fQx6YOjZd6DlEI0Z-zN--HZ6SsQIzlB1JnRv3zoodtcDSvINvOQzgeiyONk90SstuS8WsuvRQCrzQYSc-MAPldOip3OlvLUQrP0k185FwNwxntu4B3KaD02hR1SsfnfMRjOm2vMDnHGqT7ZrE3_sQUTG6ud8nct2xhYWFK777ELwBfL8SGpik5UFlDjjXqgqgoIiKaI6-0pNVH88nQO__csnbBPNh1dha7E2DSQdHsIGdSExPLx50XMqU7rlaqcqBZU4i2wKtI-EMjOCLdB-sFLfIn6ATLVRxg7UOuicwHgtiK4kKueiq3hUv=w225-h331-no",
+        "type": "TV",
+        "episodes": 50,
+        "status": "Finished Airing",
+        "producers": [
+            "Yomiko Advertising",
+            "Fuji TV"
+        ],
+        "studios": [
+            "Toei Animation"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Kids"
+        ],
+        "rating": "PG - Children",
+        "score": 7,
+        "download": "digimon-adventure-02"
     }]
 }
