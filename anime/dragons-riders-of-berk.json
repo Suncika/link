@@ -59,8 +59,11 @@
     }, {
         "episode": 20,
         "link": "http://adf.ly/avPth"
-    }, {
-        "episode": "Subtitle",
-        "link": "https://drive.google.com/file/d/0B0ILpEwdt4NmM0FHYjBWY2p6WlE/view?usp=sharing"
-    }]
+    }],
+    "subtitles": [
+        {
+            "subtitle": "1-20",
+            "link": "https://drive.google.com/file/d/0B0ILpEwdt4NmM0FHYjBWY2p6WlE/view?usp=sharing"
+        }
+    ]
 }
