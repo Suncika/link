@@ -1,0 +1,80 @@
+{
+    "data": [{
+        "episode": "1-2",
+        "link": {
+            "480p": "http://adf.ly/wJF9T",
+            "720p": "http://adf.ly/wJF9U"
+        }
+    }, {
+        "episode": 3,
+        "link": {
+            "480p": "http://adf.ly/wJF9X",
+            "720p": "http://adf.ly/wJF9Y"
+        }
+    }, {
+        "episode": 4,
+        "link": {
+            "480p": "http://adf.ly/wJF9Z",
+            "720p": "http://adf.ly/wJF9a"
+        }
+    }, {
+        "episode": 5,
+        "link": {
+            "480p": "http://adf.ly/wJF9b",
+            "720p": "http://adf.ly/wJF9c"
+        }
+    }, {
+        "episode": 6,
+        "link": {
+            "480p": "http://adf.ly/wJF9d",
+            "720p": "http://adf.ly/wJF9f",
+            "720p[10bit]": "http://adf.ly/wJF9g"
+        }
+    }, {
+        "episode": 7,
+        "link": {
+            "480p": "http://adf.ly/wJF9i",
+            "720p": "http://adf.ly/wJF9j",
+            "1080p": "http://adf.ly/wJF9k"
+        }
+    }, {
+        "episode": 8,
+        "link": {
+            "480p": "http://adf.ly/wJF9l",
+            "720p": "http://adf.ly/wJF9n",
+            "1080p": "http://adf.ly/wJF9o"
+        }
+    }, {
+        "episode": 9,
+        "link": {
+            "480p": "http://adf.ly/wJF9p",
+            "720p": "http://adf.ly/wJF9r",
+            "720p[10bit]": "http://adf.ly/wJF9s"
+        }
+    }, {
+        "episode": 10,
+        "link": {
+            "720p[10bit]": "http://adf.ly/wJF9t"
+        }
+    }, {
+        "episode": "11-12",
+        "link": {
+            "480p": "http://adf.ly/wJF9v",
+            "720p": "http://adf.ly/wJF9w"
+        }
+    }, {
+        "episode": 13,
+        "link": {
+            "480p": "http://adf.ly/wJF9x",
+            "720p": "http://adf.ly/wJF9y",
+            "720p[10bit]": "http://adf.ly/wJF9z"
+        }
+    }, {
+        "episode": 14,
+        "link": {
+            "480p": "http://adf.ly/wJFA0",
+            "720p": "http://adf.ly/wJFA1",
+            "720p[10bit]": "http://adf.ly/wJFA4"
+        }
+    }]
+}
