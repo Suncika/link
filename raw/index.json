@@ -3946,5 +3946,31 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 8,
         "download": "yakitate-japan"
+    }, {
+        "title": "Detective Conan",
+        "desc": "<p>Shinichi Kudo, seorang detektif SMA berusia 17 tahun yang biasanya membantu polisi memecahkan kasus, diserang oleh 2 anggota sindikat misterius ketika mengawasi sebuah pemerasan. Ia kemudian diberi minum racun misterius yang baru selesai dikembangkan untuk membunuhnya. Namun, karena sebuah efek samping yang jarang terjadi yang tidak diketahui anggota sindikat tersebut, racun tersebut mengakibatkan tubuhnya mengecil seperti anak kecil berusia tujuh tahun setelah mereka meninggalkannya.</p>",
+        "image": "https://lh3.googleusercontent.com/_UQCSksYr5MxOT68c_4Qjt0R2rhOVoWpPBV23L1luzH9ihBUwbbZGIBp4O_cqHHoqPgMZEWNmMneap7R3DSQJEAYDXfxcX9C194-YD25OzSScP4Zi5VUUW6NIlwM0fKjpl-Gc8QjZKnzWtByor3eIm8oyBjF9IFRybhlj1JBebacJRJiNPkkIM6C3EM870yp3n3aYGi0pZt3LcsM0gWn8g3Q2qs1zNREhuqe8MwEF8AXbXaxIupamajjqkJd-2_uYahAMCBgVdbcMzLmaZ43djr-tmw_KR8nJX3qC0w-jrT3_DBy8Xj1wzVQF8hYPJWQ2HyVMZS10pP7yhtEdIr9mPaSaq-PPnpL8ps-1kXHGuGOWCV808SNcwO_ZfdYEFRlqr8WPxXbapNlA8tJWFKoakAuasCSeJsyrvZjXXLK8Da9KHPrW5MzvNj5MviggFicJ2zWj2Kr8XwCVHAfgIv2UiGT_PNyMKsWqK_yosb4OdWvtOGGLEK1Ev4dkWi9ATWE-TA0lL-Vj4c1rTX9msLr2ddrUlawaYj7eTOzHYMyZN0lpyIApJtRShZyRg0x3iEgoHHN6pPN3qpiQISUEHo6U1H1tG8Yn9STr45EkNFNzw5CjhZh=w225-h321-no",
+        "type": "TV",
+        "episodes": "Unknown",
+        "status": "Currently Airing",
+        "producers": [
+            "Yomiuri Telecasting Corporation",
+            "Animax",
+            "YTV",
+            "TMS-Kyokuchi"
+        ],
+        "studios": [
+            "TMS Entertainment"
+        ],
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Mystery",
+            "Police",
+            "Shounen"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 8,
+        "download": "detective-conan"
     }]
 }
