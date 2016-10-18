@@ -146,4 +146,26 @@ fs.readFile(source + 'informasi.json', 'utf8', function(err, data) {
 });
 // end informasi
 
+// rss
+fs.readFile(source + 'index.json', 'utf8', function(err, data) {
+    var json = JSON.parse(data).data;
+    var rssData = json.slice(-20);
+    var rss = [];
+
+    rssData.forEach(function(anime) {
+        var result = {};
+
+        result.title = anime.title;
+        result.desc = anime.desc;
+        result.download = anime.download;
+
+        rss.push(result);
+    });
+
+    fs.writeFile(v1Widget + 'rss.json', JSON.stringify(rss), function(err) {
+        if (err) throw err;
+    });
+});
+// end rss
+
 // end widget
