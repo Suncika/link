@@ -162,6 +162,8 @@ fs.readFile(source + 'index.json', 'utf8', function(err, data) {
         rss.push(result);
     });
 
+    rss.reverse();
+
     fs.writeFile(v1Widget + 'rss.json', JSON.stringify(rss), function(err) {
         if (err) throw err;
     });
