@@ -4065,5 +4065,33 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 7,
         "download": "07-ghost"
+    }, {
+        "title": "Kill la Kill",
+        "desc": "<p>Ryuko Matoi, seorang murid pindahan yang pindah ke Akademi Hannouji demi mencari pembunuh ayahnya, tapi dia dikejutkan oleh kekuatan Seragam Goku, akhirnya dia pun kabur dan kembali ke rumahnya. Tiba-tiba dia masuk ke dalam bawah tanah dan mendapatkan Seragam Goku, dia pun kembali ke Akademi Honnouji untuk melanjutkan pencariannya.</p>",
+        "image": "https://lh3.googleusercontent.com/Fr4FdMenn082p2LyGCySNNK9Kudvxds0zJnGsEW9aeDYKkokal0nMkRk3BS5AfQxlaxnicq1NFkMgHFWUdE-Nrb4DZc1VhpOYQ10mnatTMujURoH8GlZP0_-UDkk4XMMU_UZvwWk9MBGHdwzdhbmvbnEleAL_D86f9lacD216bANuDkve6Gh5zmdqC0rri7P13M6fAfPD3z48skJNYO0itSoL5zfPybUAQ8iJ_8Mb0FkAbEmU7QCbBKUnhCOi8C2Uz6hJpCoFnSincdCJOB8jAKK0UG0qGGtAjzB9oXBmAZIC0mlIhEHxuKt1eIzqkYN_3g7JdeQz5zMcAPx4PgUKxMgJzzvVH49xu2OTvg0kAzPIJG_q6ebRvRgEGP5_da222JrMCDwXGteruWWgPzEg1iD76w-71u05O_vwK9s2dy_tgNUSESVt5rvkmBKClb5yPmy6bzTawbtu8ye-Rwde5E5FRKhOCFh1HNyB53UrnofJtL3Pv1ql78-K4G2vaIkHq9KFfUQFzSxDN-JVZFy6MCDnMw22L4Wku2oiqWwA22GybDADzQpSZX4zmmuDLJ33MDdfHULZXhg8WYHUd85xRiTPm7b15cJETFk8HQi4vTTC7uo=w225-h321-no",
+        "type": "TV",
+        "episodes": 24,
+        "status": "Finished Airing",
+        "producers": [
+            "Aniplex",
+            "Dentsu",
+            "Kadokawa Shoten",
+            "Mainichi Broadcasting System",
+            "Movic",
+            "Ultra Super Pictures",
+            "Lucent Pictures Entertainment"
+        ],
+        "studios": [
+            "Trigger"
+        ],
+        "genres": [
+            "Action",
+            "Comedy",
+            "School",
+            "Super Power"
+        ],
+        "rating": " R - 17+ (violence & profanity)",
+        "score": 8,
+        "download": "kill-la-kill"
     }]
 }
