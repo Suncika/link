@@ -4118,5 +4118,53 @@
         "rating": " PG-13 - Teens 13 or older",
         "score": 8,
         "download": "little-busters-refrain"
+    }, {
+        "title": "Watamote",
+        "desc": "<p>Tomoko Kuroki adalah cewek SMA yang sangat populer, yang berpengalaman berpacaran dengan 100 cowok selama 50 tahun, tapiii … di dunia game. Di dunia nyata, ia hanyalah cewek ”mojo” berusia 15 tahun. ”Mojo” artinya ”cewek penyendiri dan nggak populer sama sekali”. Walaupun begitu, ketika kehidupan sekolah tidak seperti yang ia harapkan, dan ia tidak populer seperti yang ia pikirkan, ia kemudian bercermin untuk pertamakalinya dalam beberapa tahun… Kemudian, ia mendapati penampakannya, yang membuatnya kaget.</p>",
+        "image": "https://lh3.googleusercontent.com/xxzOdgF_CNlTZWxdCOp7iwIFyJmOkXL2q6v97iNzGBUDYnYS0tsb7A4VOdaQY03VEcoL5uuGS8B71C1jAVbdbLJGJnkTcpTq4eL8i9S0x6OKQbq99fI8zk-LOWoEmL9PJSUgGdOSQIRYzN6WyTIjaw0DzFdOhyoTl3jaVpDv71Y5-ZHQ7fRHCimPvbtXQcfcHsxYyJP1qRffL27vYlg_mFH6n4lmpIt8FQVO-eL9gIYFHFqrXKN86JP7eU82BZx11qCOm8Z1Mc5KlFHV5oxdQFSYdn7P7jCLgd-A-xkvJJcqiFSTLcsL7d-s8HkutNpHQ96VW61uA2TeQXyquCH-d117WMelUX568f3WeMfRlviBhtF5ASr1LkLi-FEzCmxZspf5Ceo2ur5_ClG24YPMTftb_4ZDsvVOEwAg8DLmvenAm2K9aTXvqYoTWJ2GEiugUbohmceriQhwTwa3GbPKB3DOWAMl50yqXMAl5Hcv9yOgc-weq76xOdSkZ89Vhu9DaNvwzNW7RUjI3n7PNMDWmeTFyvjqAD1EffrUtnd67g6fGjYkErPvN9sBr9AxRIlabt2kZgbynCGgu83OAuoGYvn3WPgTziNyAJwmrD-i3qcMVtEI=w225-h350-no",
+        "type": "TV",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "producers": [
+            "Media Factory",
+            "MediaNet",
+            "AT-X",
+            "DAX Production",
+            "Sony Music Communications",
+            "Bushiroad",
+            "Good Smile Company"
+        ],
+        "studios": [
+            "Silver Link"
+        ],
+        "genres": [
+            "Comedy",
+            "School",
+            "Shounen",
+            "Slice of Life"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7,
+        "download": "watamote"
+    },{
+        "title": "Wizard Barristers: Benmashi Cecil",
+        "desc": "<p>Cerita ini terjadi di tokyo Tahun 2018 di mana manusia yang normal dan yang bisa menggunakan sihir hidup berdampingan. Oleh karena itu dibuatlah undang-undang menggunakan sihir dan “Ruang persidangan sihir” untuk menuntut hukum mengenai penggunaan sihir. Dalam Kasus ini pengacara penyihir membela orang-orang yang menggunakan sihir. Anime ini menceritakan Cecil yang menjadi pengacara termuda dalam sejarah dan rekan kerjanya dalam membela klien dalam kasus hukum sihir.</p>",
+        "image": "https://lh3.googleusercontent.com/DHk2fOfnOxIuv0ksNX97SkNPgTWYtmcwpKeXndV_A32-XO7fRP2Bi9Oem9brEJs6u0dQlA06ytCXjpfQjlaYeWONHyXvzxDVyW04N3WGQ8dDdQve8SY8LzxPI0aRgR-z8Uxn618o6QT4ZEwcOov19giQRCMx8CffHaPBPlIL2yg4mu0wgyEZsHg2sZ4WoQ71WxGlzKbzGUt8VDYzuJztb5kmh5vXBjsR5zH0o5ROeHtrk0Nj6YsS-VogZebPnc2UGt5-trkDx6PNgj8OyLUJlc7p0vO-GpbkdzgTwj4vA9kVjRoK2SMI_KmE7530LNtsFjjKME9yHOE8nLln_ZFTlsHdtHe-U0HU6B_sYs3S0kw86BSJlFPb_qIktkoEYivqkmRwWmoKWAaTFmWFfcvn2zllg2eJV8XDOS1cG2c-dTv4G6aINfcAh15yDJtzcddwMm6pzXI72eIOuNRH59x2_QkSyAx8cIc4cOARCG9QO4GWew1iIG9_qsDIDlnk2x-cZNEP2wGmkPEZe2H4JlCyuE5VgHmuoxZGBzPVYi3IGI7dpr4_d4cGK6nzU9WhQ6AUr-km7I5HVupxbQ3U2Omcu1IMs491Cg1fsvwFx4237OvxwDji=w225-h330-no",
+        "type": "TV",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "producers": [
+            "Pony Canyon",
+            "Showgate"
+        ],
+        "studios": [
+            "Arms"
+        ],
+        "genres": [
+            "Magic"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6,
+        "download": "wizard-barristers-benmashi-cecil"
     }]
 }
