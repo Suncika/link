@@ -4166,5 +4166,57 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 6,
         "download": "wizard-barristers-benmashi-cecil"
+    }, {
+        "title": "Chuunibyou demo Koi ga Shitai! Ren",
+        "desc": "<p>Apakah memiliki gadis Chuunibyou terlalu sulit untuk Yuuta, yang bahkan tidak pernah bersama gadis normal?! Yuuta mengkhawatirkan bagaimana cara untuk mempererat hubungannya dengan Rikka. dan yang lainnya, Nibutani, Kumin, dan Dekomori, semakin bersemangat karena kenaikan nilai. Selain itu ada seorang gadis sekolah yang menyebut dirinya Sophia Ring Saturn ketujuh, yang bernama Satone Shichimiya.</p>",
+        "image": "https://lh3.googleusercontent.com/4eTZB6ezM9jMaIFwua9JnOTH-QfqM9v6l8VE6uPfw9ias9buxmB3BsbjIJy8kVimDHMpvGZovh9KshaH1hD3q-yIiGs2e-pDnIydpCHEh078e30--x7JTc01E2eEBAT02NGJTAMlrNScuqK7mHKrqpFujVEkJimgNPMROnYHvHcd7pMu35jIXH8w_7cC92-KdyrdIWAphokJ0Ml0z12rI85IiP_pFUHFotlgdZXjdOo71THVXgjfDnIS4-yxqHeWm144zSPvTni5lnhf-YYqgkRIxzNLZj4Ih8vT6taX80c1YVaN4EupU55x7ddNQul78Ak8tKAoSYIU-O48gwQi2MBa6N_M1l_677dVzB4pU1jpUlZ6vLwQWTF5AoRZ_zzWGe_hYOcv7yg2exfCOKZlYbvs69m8A452d88WM7Z1H8G6RnUs_R3j2LosKsnqukqQqGrRmbjnJNHS574xG9MvUN_DXxCHlshOEHleY0FPdAOaAMC94vC2Sw7Ys5J-8hy1ehcdSXVqXxLjIn0g5zVGKENtnZwPiJwptuXnpBmQsQsxumgwGeEI-uslskXyHEaJGgTMseu2yQZppIRVp2poKrgT5mMystWKcLrxAU5qccRa3wsb=w225-h350-no",
+        "type": "TV",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "producers": [
+            "Lantis",
+            "TBS"
+        ],
+        "studios": [
+            "Kyoto Animation"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "School",
+            "Slice of Life"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7,
+        "download": "chuunibyou-demo-koi-ga-shitai-ren"
+    }, {
+        "title": "Code:Breaker",
+        "desc": "<p>Sakurakouji Sakura adalah seorang gadis yang tampak anggun dan sederhana tetapi pada kenyataannya ahli dalam ilmu bela diri. Setelah menyaksikan seorang anak laki-laki membakar orang dengan nyala api biru, dia terkejut ketika melihat anak laki-laki yang sama adalah siswa transfer, Oogami Rei. Oogami adalah seorang Code Breaker, orang yang “tidak pernah ada”. Oogami nampaknya adalah seorang pembunuh berdarah dingin yang mengikuti prinsip “mata dibalas mata”, untuk “menggunakan iblis melawan iblis”. Meyakini bahwa membunuh adalah tidak benar, Sakurakouji menetapkan akan menghentikannya dan memasuki hatinya yang beku.</p>",
+        "image": "https://lh3.googleusercontent.com/YLLVrBErl8FvZSNp4R2kMgia3t9ivJhZnOQ06xupvIff7qAvMMvFB5yCL-WFdmA4g7E2BpLxxgjj-FuGkmh5bSmcu3hCxKeBb53McvTJIq0XjkZdtXsWU0FVspbaeiJ4pPa9rmmtk1ul-8wcYKGcswAa2iisPvhz0hzh6j33C9o1-e4LRz2PSuBGVlmnCCrXLwzTnOdufucEIoe_ndcTqMYiPcwM86uuw1hhtnKQh0yzWWVrj-1AIKOqAPNSNHbz7H56gG56-hVdXl512re8v_veLg3YM6gr_lI7Vxs7alfOmQd9MlrbaLqdJ8XonKzvKWdg9JNE2Q2JiAICU7aLqGP08jQ59nWlIqH4CwQ9giA_cUi-P4X2iCbfqEpl923XM6l3varWWLdWjLSGqSQKdXKtK0OYsTRJdkq2aaZkFI49RUx7cxHp9biYbnm_R1qF-1Nq4DeaytNOBvOPJvZDKMPm5hl039l2ftnSA_l2U6JESiu72YTxSKVIdwGm0Q3TqGFwThMOiBM0QNsbS4FbDXoANOTY6SXJWYiH1IMNdxUlVBbYqS1vUXh4o5nAc-k4tmXZzq5wscFxDiNDDllYNWHDF-XPOn-l_Gxq0XcjGNAidxMh=w225-h321-no",
+        "type": "TV",
+        "episodes": 13,
+        "status": "Finished Airing",
+        "producers": [
+            "Bandai Visual",
+            "Lantis",
+            "Kodansha",
+            "Memory-tech",
+            "Bushiroad"
+        ],
+        "studios": [
+            "Kinema Citrus"
+        ],
+        "genres": [
+            "Action",
+            "Comedy",
+            "School",
+            "Shounen",
+            "Super Power",
+            "Supernatural"
+        ],
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 7,
+        "download": "code-breaker"
     }]
 }
