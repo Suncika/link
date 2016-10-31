@@ -4218,5 +4218,48 @@
         "rating": "R - 17+ (violence & profanity)",
         "score": 7,
         "download": "code-breaker"
+    }, {
+        "title": "Death Billiards",
+        "desc": "<p>Seorang pria tua dan muda menemukan dirinya berada di sebuah bar misterius dimana mereka harus bermain billiar. Taruhannya: nyawa mereka.</p>",
+        "image": "https://lh3.googleusercontent.com/19s_re7RIpgUCY6Vi3my06zS9vcVYMKurzrHsP-fefECNbXZd9D84Ll1fxYl76XmI8mm_tweCaxGnCjo6oosXj_zOu38mgWopgFK38NYzI4PRyJGZQJRthqw9rckPMhgn-veFOGeN6KUPcgbYgs6TJSnaXE1hvDLkjWDInnJw6HnUmx4IbWsucihHV0gevWqFosROWyCz4ir3kgVH8paKJJYvexUCs-h7gT1QACVMrQYw4H9282yOr8BBxgPMzetcrgjrQk3nDG7yn9sBDASziYxK0RgDNHifmcOwCV14CnxWUgGMM2pmtrf2exZ0a8M__2wBf8K9zIMra-yavVPIYMyy8CO2YXuQrIgjaex0iHN1PL5ohR5ATrtaCwtogb6ekpvIR0jqFS-y0C6kL7VUAD6RCwxhiVfpif2QKcC39r0rfSPkVxckHoW9L9VKS3_Il8wcoz8cEoLdQ_0emQBuAipto2L2tSLdGlPV1fm_R-P2bM6YEFy0iLd2SvIW3aXF6b9IgtDRZTap5TdsFM9QCXXRcc1F3FfS3OlOzti4RVEgTkJgjKn_w5IhxKh6LejGjCZP9d1J0B0j9GqYR7OzNaLuMh2Rj6MRMRTfk9_XCg1xSz-=w225-h321-no",
+        "type": "Movie",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "producers": [],
+        "studios": [
+            "Madhouse"
+        ],
+        "genres": [
+            "Drama",
+            "Game",
+            "Mystery",
+            "Psychological",
+            "Thriller"
+        ],
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 8,
+        "download": "death-billiards"
+    }, {
+        "title": "Kiniro Mosaic",
+        "desc": "<p>Cerita bermula saat Oomiya Shinobu, gadis jepang berumur 15 tahun, melakukan homestay di Inggris. Bahkan setelah kembali ke Jepang, dia masih tetap merindukan saat-saatnya di luar negeri. Suatu hari, Alice, gadis yang menjadi Host Family di Inggris mengirimkan sebuah surat. Suratnya berisi: Shinobu, Aku akan datang ke Jepang! Alice gadis campuran Jepang-Inggris itu memilih tinggal dengan Shinobu bersama gadis-gadis dari Jepang dan Inggris.</p>",
+        "image": "https://lh3.googleusercontent.com/wwjfo-DasjiZBI4zfe2cmsaObbD53dR2gg8w0t2PpiTcJl1zoXU3Wpwpf63ku5qnonRxmh00KwC106Ev3ijMq8RX3ml_SFswMioJSij_PBKOtc6ZpjXO4z9B7D5euYoPlhRGEcjWKIhAe1aOLrTVCvZCJADlG1jbADqlcikkA4unB8oOdBLLutrpC5ZERUB3gOGOdir8fBIJjzRxK3nD1BfYTYwk78_LMiFLYxpRtzFCNrkMK72wzFpk7bDicJakYVtDKm1vQunEN_e4mNNihAE-3JlZSjh0nzflzBuvhTcg6FrHPch-plZ06UosufnzWVH53euOZDkFMbbAm_CRtPazh6SGkdlig4QBlCZneLk9c5BpxzIl1JXiOzwbAtKA0Z8vML2UaY_nNMMdBVvkUyvW9i4AwXUqi3zQwZ83H2v2wGC-A7Qnme1BmcPj7ynk8YqkCRACGVrHpr9LsvkFv80PH5oNGwFCxASEAVVxxP9_DztxIyq690h53IzCpMEC2B20pL562CEZm31J_veMaaK_Er2EvpuKbUZOMTCB6xPyw2TnDoqDK_tDpxqYdlXvOZQSsBhw0yGcaXZECc0K0gMwXJOwdI5cVhjHWK5jrCkf2Q9v=w225-h320-no",
+        "type": "TV",
+        "episodes": 12,
+        "status": "Finished Airing",
+        "producers": [
+            "Media Factory",
+            "Showgate"
+        ],
+        "studios": [
+            "Studio Gokumi"
+        ],
+        "genres": [
+            "Comedy",
+            "School",
+            "Slice of Life"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7,
+        "download": "kiniro-mosaic"
     }]
 }
