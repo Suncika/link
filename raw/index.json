@@ -4369,5 +4369,23 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 8,
         "download": "fairy-tail-2014"
+    }, {
+        "title": "Amnesia OVA",
+        "desc": "<p>OVA dari anime Amnesia</p>",
+        "image": "https://lh3.googleusercontent.com/pqhPuBhl7Bm-o6OXCQYmXXebEXH3mKlxNS_-VrpgUPqb4QCE_hMItauxgxphJRKm2Pmpj3LgqGMQidhWWvHTDwZH7Hnsk6C7s0RsxCbJv6f6pmnX29AL9nQGD4hSkHRZEL6eRH1lkh2AD3LzYFJSXzQIVoCVaOegmCHX2DJLUYwEDYFj-FRnN0jwnAfkePKyJrwBR2vyULvdh-OvCw3IPOp3eJLBWt_aOqCACCVn8GHjb8OBeUuK65pmEjebWAOxcUyTLWUk8uIwQS2ITYmXJ63v-Oefsqz4sANsWRbUSYvjoN92B4HMVMUXSvMCfNiRHeVbWSayPyX5DavmAAXuhN8SEeYqmGhFdpWmhkyYXgtE1Q22c0yDk30-JbQy4EkNvFb1ZRRlKlHQSvYOLWFMC9H8589EHg5eItU3Qs4CcYuNOnoTbFbo0gLzzoDx3QUIWsZaZ1TdLrhc4KNcQHnNBKWyjQj1Ng3ZP-Z2ClaM3NduiEwK6Fg5Djs_GvKMIJaSvZO7vmq5Gs0a9BzBnvMJZQFfl-o298TdhELWUXEhqd3zzBewft_xzkbq4unataDw1OKGMwHD1m4m6n3o3AXpp9Qw4DT7QskvVyfxTbdzhPTaLeTW=w225-h316-no",
+        "type": "OVA",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "producers": [],
+        "studios": [
+            "Brain's Base"
+        ],
+        "genres": [
+            "Fantasy",
+            "Shoujo"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 6,
+        "download": "amnesia-ova"
     }]
 }
