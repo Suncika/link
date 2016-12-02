@@ -4146,7 +4146,7 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 7,
         "download": "watamote"
-    },{
+    }, {
         "title": "Wizard Barristers: Benmashi Cecil",
         "desc": "<p>Cerita ini terjadi di tokyo Tahun 2018 di mana manusia yang normal dan yang bisa menggunakan sihir hidup berdampingan. Oleh karena itu dibuatlah undang-undang menggunakan sihir dan “Ruang persidangan sihir” untuk menuntut hukum mengenai penggunaan sihir. Dalam Kasus ini pengacara penyihir membela orang-orang yang menggunakan sihir. Anime ini menceritakan Cecil yang menjadi pengacara termuda dalam sejarah dan rekan kerjanya dalam membela klien dalam kasus hukum sihir.</p>",
         "image": "https://lh3.googleusercontent.com/DHk2fOfnOxIuv0ksNX97SkNPgTWYtmcwpKeXndV_A32-XO7fRP2Bi9Oem9brEJs6u0dQlA06ytCXjpfQjlaYeWONHyXvzxDVyW04N3WGQ8dDdQve8SY8LzxPI0aRgR-z8Uxn618o6QT4ZEwcOov19giQRCMx8CffHaPBPlIL2yg4mu0wgyEZsHg2sZ4WoQ71WxGlzKbzGUt8VDYzuJztb5kmh5vXBjsR5zH0o5ROeHtrk0Nj6YsS-VogZebPnc2UGt5-trkDx6PNgj8OyLUJlc7p0vO-GpbkdzgTwj4vA9kVjRoK2SMI_KmE7530LNtsFjjKME9yHOE8nLln_ZFTlsHdtHe-U0HU6B_sYs3S0kw86BSJlFPb_qIktkoEYivqkmRwWmoKWAaTFmWFfcvn2zllg2eJV8XDOS1cG2c-dTv4G6aINfcAh15yDJtzcddwMm6pzXI72eIOuNRH59x2_QkSyAx8cIc4cOARCG9QO4GWew1iIG9_qsDIDlnk2x-cZNEP2wGmkPEZe2H4JlCyuE5VgHmuoxZGBzPVYi3IGI7dpr4_d4cGK6nzU9WhQ6AUr-km7I5HVupxbQ3U2Omcu1IMs491Cg1fsvwFx4237OvxwDji=w225-h330-no",
@@ -4512,6 +4512,47 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 7,
         "download": "dragon-ball-z-movie-6-gekitotsu-100-oku-power-no-senshi-tachi"
-    }
-]
+    }, {
+        "title": "Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin",
+        "desc": "<p>Android 13, 14 dan 15 dibangkitkan oleh Dr. Gero dan menyerang Goku yang sedang berbelanja di sebuah mall. Goku, Trunks dan Vegeta berhasil mengalahkan android 14 dan 15, namun android 13 menyerap inti kekuatan dua android lainnya sehingga berubah menjadi android super. Bagaimana Goku akan mengehntikannya?</p>",
+        "image": "https://lh3.googleusercontent.com/5Fdb6ZOSqsV3dn8aJml6omWF9Z_uu_rRrSEpb6zRqRUd0XNcgHAmL5YGpPepjDCEEO-BCZVL70erB9fUaw-J71M4M_oS51lhmzwGNCNpyyOtA5aFq9IaQDO6QLtRFfMhcegFlQQKsOe_q89Shm00WH6Xgj6w3NvOMJfmDJ6IFSCyyZEa00nKVr4siU7rekA5nNLPCs_vk6FNsALIxSu1VYoXUQ7tuW9nVWKXyKwOiHAEXciUfNbL5ak2UV5NqlCjaWPOFKlYxUu2g92XrlTRXDonMa2gb8_t_I3dGRWCqoVGnPClB5Lnv0Wnv37v2O6SptAPAmYp-wbjetKgQqoYAC0keHYo-Y6uyDH4wEx73XVaFfu56s4vHl-ngQbH2Qh9W91zP1HWLzDBJtNx5hIBXMFbkILp50v62v973lp_BcPghrOkxr9g8N4OeAwr1V5-W5kjomDotmhtIkeETgcUpU8jdhG1pxiHgQq5m1E_JJIi4qSP4RDSNU4w0UEl84LCl7dMkzZ1stid4vx__DjqjkPUGooMbklIIuhMbhbKas8r8E4r4Kk2UwkWjtRDzxAd8vHsTDWjZ-FFNS4cg5xwCzZ2UY66e8nuyLHFbe_auazVPNPJ=w225-h320-no",
+        "type": "Movie",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "producers": [],
+        "studios": [
+            "Toei Animation"
+        ],
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi",
+            "Shounen"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7,
+        "download": "dragon-ball-z-movie-7-kyokugen-battle-sandai-super-saiyajin"
+    }, {
+        "title": "Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen",
+        "desc": "<p>Goku menyelidiki penyebab kehancuran Southern Galaxy, Vegeta menjadi Raja di Planet Vegeta, untuk mengalahkan Super Saiyan Legendaris, Broly.</p>",
+        "image": "https://lh3.googleusercontent.com/Ek6hH6czK6nFZFBY7MDKUyTvSPXTZKXmALgd1_YWXuTT282heetSxYjWWPPCOH8Pb5PjoghumdZLJ2SpGngNDIkrZOM04v55tP6nZ34nCvbt6LwrtEBrZdg_cc6wbkt3dQ8bRCcxWrNq6qewChyAoZIaBtHJcslZ1SLC4oPwM0BVV_4w8R0ZlCIx12klkOYvwKTRUT5A60EBYrfmHo3xHKh4TdZEE0u8mELRkKoAD1xvzs1wC-lHuNIYMmEVbTnxTtUWUSwDvZCXP72skXgkkRTttYY9nkwny05EnmYsoj-2eGhHVRKi9ovWgMAbVGsc4m335gBJpzjXeZ9IDdHiUAc10hxb7buOcIaLkMQxUvzk9vlJReWYZRpvvSkb7UT9nkIoQFSsbwiRP7ADAypIhTeepYZTieACfi-PGyGbntqYCp0hcZs7_GZH8vOeMwydHtRUy1c8NJx-bpwHppZlpmq2xFMroYk3fSpL3D_Dz1P-6mhSy1qe4xqx4bVHZ7mzpnaokkvpaqG9oR2o5m6ljJiSuwRv4J27cnQXbzrQXV82pjAeMU8x2D7IISuAdh7k4PqxgnuwhroHHh6QUIAK3wY_XK2hbnxCXbRD8ZMjKF8iD-k4=w225-h320-no",
+        "type": "Movie",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "producers": [],
+        "studios": [
+            "Toei Animation"
+        ],
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi",
+            "Shounen"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7,
+        "download": "dragon-ball-z-movie-8-moetsukiro-nessen-tessen-chougekisen"
+    }]
 }
