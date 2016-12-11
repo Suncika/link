@@ -4666,5 +4666,48 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 7,
         "download": "dragon-ball-z-movie-13-ryuuken-bakuhatsu-goku-ga-yaraneba-dare-ga-yaru"
+    }, {
+        "title": "Doraemon: 2112 - The Birth of Doraemon",
+        "desc": "<p>Sebuah prequel yang menceritakan bagaimana kehidupan Doraemon sebelum menjelajahi waktu ke abad 20, diceritakan bagaimana dia dibuat, bagaimana dia rusak, dan bagaimana dia kehilangan kupingnya, dan bagaimana dia bertemu Nobita.</p>",
+        "image": "https://lh3.googleusercontent.com/fTP-nT6dqhxwvzkfbvzta9eRn03a7pQteTP453Onm-PSsweJ7nJ6MldFpE4EQlVgGEieRREyX7LIWzs7QBw4aT7e15mm8OBC2_RcnvuVTXVYs_yQq0_PcKU9IoAX5g63eXcdG3YS3TPr32aGR6IBYDolzCpth6YBoEos2R43m7mUvRH8dGO3yVs7toD5J___DZPRQbOETGSVh3ZhVjLUFGIAtiPZO4qw1l_OX03Nznq99XvKsbKa97UcO5iOrqEq5mZuxjlUjUt48JLKKAEUu_Rkom2LaMwRRi4yxC7C_6vhEx_9LVQjLBZE44fu7sBrbRtgS409GGSHRjcAhBT2muvRs39iz2V7srOvTZSRitNFwDgJIUWFI-83qLUixpY-GWK7ujwAoKFE2Tp2oIt7Tn_SZmk3DIoZKOdWqT4mL3nosIZgSqUeUuVmz3MnREoEopD7bzQiONpoVch36SKbC0kGuDQb-siavca2IaIW7Z62tZ7u3sxXN6vGIAwFUVHIeVrPzdYcqgwWoQ1F09aXZJrwZTnu9L27gabANhjgh8tLkIV8HIM3AOwD_3V5STkngt_u8UA0jibicpSC6mlW-A3XYqg7Dw048tt6mZkn_Nk0-otjeb1f=w158-h200-no",
+        "type": "Movie",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "producers": [
+            "TV Asahi"
+        ],
+        "studios": [
+            "Shin-Ei Animation"
+        ],
+        "genres": [
+            "Kids",
+            "Fantasy",
+            "Comedy"
+        ],
+        "rating": "PG - Children",
+        "score": 7,
+        "download": "doraemon-2112-the-birth-of-doraemon"
+    }, {
+        "title": "Doraemon the Movie: Nobita's Diary of the Creation of the World",
+        "desc": "<p>Nobita harus menemukan sebuah topik penelitian untuk tugas musim panasnya. Nobita menyalahkan Adam dan Hawa karena berbuat dosa sehingga manusia diharuskan turun ke bumi dan bekerja. Doraemon memutuskan untuk memberikan gadget yang membantu Nobita untuk mengamati penciptaan dunia dan peradabannya sehingga ia dapat menulis sebuah laporan buku harian.</p>",
+        "image": "https://lh3.googleusercontent.com/4jf8kRjtvgzKwNT06UaV0UM4QWkmntbgWppTYt6q5P297YJCUQ2yk8lJVkZo5d9-8p4QMm6tsb-I57ryo0Mg06UMG5lpTKeXC9TzxWiQPuixvEEa8Jt-gT9nt3Zu5Cl3ViTjkm83hBsewhoLr2SK-kyhV1kNrLY9OrDwuN0_1TjJpjw1PdWt3OBo9kYTZ26SdMAlrvkQzZaDZMRPdUTNC2loiQ36rIiEQUkReJUj9mkmz1E2A3dxRVHJ0c0lgl7d-2r2avgss8Tu2HfAGqt_4LzoDIC4ntgXJrgH_49LDZ3KlHNMjX7XmvK7pWZUHIy2g-ROOx9_v0JRgpYx7585melp-ebPdQo-kQ08tstldtZlItNKGvub19kO2UDmyIntw9TknIFW3vMBpwrRIRNjYd1-JK-9M1_ZtkqvInnd4wgDwmIcv-HxUSYpc3rBRF_-3hI2EAE_zIVR_JKPpgut6_S6lced9StgWOPhnEnNgzKSZuoXSrLqqJ_yLXU0ghb9M6QHt3NKMWJqM0EP7MPZ7uKl3JfqkoeEtTfCV_LQ34AcVYxVVklquyC_KDynSCKX9zSC1dgYp-q55h4yOpI3b-rV9bCMM93dwDXtVwgaAvQEa8judRWa=w225-h319-no",
+        "type": "Movie",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "producers": [],
+        "studios": [
+            "Shin-Ei Animation"
+        ],
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Kids",
+            "Sci-Fi",
+            "Shounen"
+        ],
+        "rating": "PG - Children",
+        "score": 7,
+        "download": "doraemon-the-movie-nobita-s-diary-of-the-creation-of-the-world"
     }]
 }
