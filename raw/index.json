@@ -4709,5 +4709,29 @@
         "rating": "PG - Children",
         "score": 7,
         "download": "doraemon-the-movie-nobita-s-diary-of-the-creation-of-the-world"
+    }, {
+        "title": "Dragon Ball: Episode of Bardock",
+        "desc": "<p>Bardock, Ayah Goku, yang seharusnya meninggal saat Freeza memusnahkan Planet Vegeta, terlempar ke masa lalu saat Planet masih dihuni makhluk lain. Di sana, Dia bertemu leluhur Freeza, Pembajak ANgkasa bernama Chilled. BArdock berjuang melindungi Planet tersebut dari serangan Bajak Angkasa.</p>",
+        "image": "https://lh3.googleusercontent.com/QyNIam2GYoEJH-EHEa6zEJ9r96rOBcwip46Tn7wOX-zI_rTYiLr9tDaCVV3lLlQtRb0IO87Kr7yzNpEAqTfZl08MNz_TnRCWHWwOsianAQdD4TPJsa-7UY2Y0pvn1cJcOm14S_ZAKUo2gl9y9kgufxZpXWE-2livXhQHLEm0qsBgyK4h-v1ObhQyJpX8fu5IfL8N9rRZNMbJuzOS0cayGv1UZqBidMZgg1xrR7HJlLJ_CsDBU3EkBd10rpJQsNiHPryvWyExtnfuydNmIkmTLdbTI5zoYArm3tPHOlLRexIFGH3BWaTxx2VKj1Q-M11KG_G94ZbyKsIzDRqejeB3zA6HAMhaPlI_9SVozb4Vi5aR588fa42Xe2vluPkDgzbztPiS_i1lNUT14hZtVdILXclrETOTlhy99fDLN-9UeittcZ2SumeWlfudCK-B7oGEgWmnpzFTKHaaQhfWCxqJPqzfxYKi9y9iBmvPJGUQ9ZR2k6KrYe-a-lYL17oBDzGTyglyXEeQShWIi7pdDpX3elXoaJUvgyJKla-MLTZtMxn7NjZtpcE_OWD8_x9qy3BeGcZyE2JjebQE2zJ0GPy84fCDvGyy3clQpz-6QJuGqmVKnqChAQEx=w222-h309-no",
+        "type": "Special",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "producers": [],
+        "studios": [
+            "Toei Animation"
+        ],
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Adventure",
+            "Comedy",
+            "Super Power",
+            "Martial Arts",
+            "Fantasy",
+            "Shounen"
+        ],
+        "rating": "PG-13 - Teens 13 or older",
+        "score": 7,
+        "download": "dragon-ball-episode-of-bardock"
     }]
 }
