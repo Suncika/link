@@ -4902,5 +4902,29 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 6,
         "download": "oneechan-ga-kita-special"
+    }, {
+        "title": "Persona 3 the Movie 1: Spring of Birth",
+        "desc": "<p>Monster mengerikan yang bersembunyi di dalam kegelapan, memangsa siapapun yang masuk ke waktu tersembunyi yaitu Jam Kegelapan, yang letaknya di antara suatu hari dengan hari berikutnya. Menceritakan perjuangan sebuah klub rahasia sekolah bernama SEES melindungi manusia dari kengerian dan bencana sambil berusaha memecahkan misteri dibalik Jam Kegelapan.</p>",
+        "image": "https://lh3.googleusercontent.com/4cPfSrQWcnbRcCHe5sM10gbUDdBgtZZHKvjAezJo67WmBYv51SCGZxAra1g0nbzUv-W3JOEF8KG_jXU4H3JEYKH8Z7vvUjT_OwfEqphJ5zWICgqYNx6E0vbabnAdFvwM6Oi5qbqGT2j8VTQo9V3a1CiEg9g_GYadSx4Ipn283Fk3rwE1lGlo7-jszIp9VZTPPYGK7h_WjjQoTtQEbRpmfMHHLe6oNifGk1tG7loPUN9e0nq2n68ECeVPHSh0H7GSF55GHGEBOhEL4fKvSLblbucoZCX8r5FEigSO0KgGlwJTLAwvIjGf5nuL0ZCBvpr5CTCfLRd0LrKKwkgd-VUDilHnpBydkcurXqttdMIfc9KwTkoN0krSRwChY9ZG8zBmzL2E9FaIUtgDWhIwKYMoKKBFiFeEw8VrWmYoNpkgEKBMaW7ngY3X57F-d6R8tNmId2rMWWcE6TAi5TrIkH8sDFl-nzrVe-fWssefuVAObz-wZ0E8GxdQDCmU9opYJB_kICXyFWlVQLtPhAS58qvhF2yuBiDa3GSxQQH0_xHltNifiF0K8mSLNdchtrgQ5BeshQUJBuWYqyTkQxoI2VXh0kWzXljVt4kPYquh17ef23zkwR1ZMUb4=w225-h349-no",
+        "type": "Movie",
+        "episodes": 1,
+        "status": "Finished Airing",
+        "producers": [
+            "Aniplex",
+            "Yomiko Advertising",
+            "Atlus"
+        ],
+        "studios": [
+            "AIC A.S.T.A."
+        ],
+        "genres": [
+            "Action",
+            "Supernatural",
+            "Fantasy",
+            "Seinen"
+        ],
+        "rating": "R - 17+ (violence & profanity)",
+        "score": 7,
+        "download": "persona-3-the-movie-1-spring-of-birth"
     }]
 }
