@@ -1,0 +1,24 @@
+{
+    "data": [{
+        "episode": 1,
+        "link": {
+            "480p": "http://adf.ly/1iibVO",
+            "720p": "http://adf.ly/1iibXM",
+            "720p[10bit]": "http://adf.ly/1iibbG",
+            "1080p": "http://adf.ly/1iibca"
+        }
+    }, {
+        "episode": 2,
+        "link": {
+            "480p": "http://adf.ly/1iiaxY",
+            "720p": "http://adf.ly/1iiazq",
+            "720p[10bit]": "http://adf.ly/1iib2A"
+        }
+    }, {
+        "episode": 3,
+        "link": {
+            "480p": "http://adf.ly/1iieck",
+            "720p": "http://adf.ly/1iiezl"
+        }
+    }]
+}
