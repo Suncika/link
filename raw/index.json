@@ -5199,5 +5199,29 @@
         "rating": "PG-13 - Teens 13 or older",
         "score": 8,
         "download": "dragon-ball-kai"
+    }, {
+        "title": "Dr. Rin ni Kiitemite!",
+        "desc": "<p>Semenjak Meilin dapat berbicara, ia menyadari kekuatan Feng Shui nya dan terus melatihnya hingga akhirnya ia menggunakan sebuah website dengan nama Dr.Rin. Dengan websitenya itu, dia dapat membantu semua orang dengan meramal masa depan yang akan terjadi dan keberuntungan seseorang pada hari ini. Dia merahasiakan identitasnya dengan nama samaran Dr. Rin supaya teman-temannya termasuk Asuka, untuk tidak mengetahui rahasianya sebagai seorang peramal.</p>",
+        "image": "https://lh3.googleusercontent.com/3LSa0gOZPmDNF0leOY6oMnO95rwj6ARfCdEbTrW3vB1WV3ENSjzJsuxVQSUpo04L-IpkOJsq5YB2tu_WGnX5deOMA-YgF1bgwHHGQkfSaJ_9OKJF79Z5GBz1BsKcynFUofjAgFmGy5ZzhRyNUod_FAN8pMqChHL8EJ--14QLxeHrPTg6FhY5sfrUI5ickyFdVEMxZwXzF092KPR5xUwS0hdrP9l_Dtwj0xAFv47guhuM5OGT9xzLRtpKyWAzD-pWN3tn7YwZrT3497g5j9DsHXozuIuUh1Q3_nFjUUX2q50OEDMvTWvkdOJWLQ5AHHtHCvTZdLxUtpATutMfFvLv9_XBTJ13OWgXk6wKIigFtP598QnTLC0k9KrvPlGQry6aDnXoy2dj4aA0rR54sg1zGPzly842j1F3CQD0CYycJ8q0_x-V3cG4NzQroLx_7hOhxu091JOuF5snilKv9zqdJrupv4iPSKw0dAaVJFOhmi4yO_gJl7CFP0wo2yo1tUTyjQuBDk5LlmjmKB1LinMcn2ndUAOcRI-mS93JolBGLrsbucapPtgKEQpPswxz5SxKHS5EMGw8CPWrbPB2yRa980RcypHcY3rQxife1z6jbyPVULQwdjR7=w225-h320-no",
+        "type": "TV",
+        "episodes": 51,
+        "status": "Finished Airing",
+        "producers": [
+          "Nihon Ad Systems"
+        ],
+        "studios": [
+          "Studio Comet"
+        ],
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Magic",
+          "Romance",
+          "School",
+          "Shoujo"
+        ],
+        "rating": "PG - Children",
+        "score": 7,
+        "download": "dr-rin-ni-kiitemite"
     }]
 }
